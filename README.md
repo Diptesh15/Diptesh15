@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning ML and DL
 - 👯 I’m looking to collaborate on Data Science projects
 - 📫 How to reach me: Email- dipteshchaudhari2002@gmail.com | LinkedIn- linkedin.com/in/diptesh-chaudhari-a87021218
-- ⚡ Currently pursuingBTech degree in Information Technology from JSPM's Rajarshi Shahu College of Engineering
+- ⚡ Currently pursuing BTech degree in Information Technology from JSPM's Rajarshi Shahu College of Engineering
 - 💻 Todo: Specialization in Artificial Intelligence 
