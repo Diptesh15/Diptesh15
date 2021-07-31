@@ -1,4 +1,4 @@
-### Hello Diptesh here 👋
+### Hello, Diptesh here 👋
 
 - 🌱 I’m currently learning ML and DL
 - 👯 I’m looking to collaborate on Data Science projects
